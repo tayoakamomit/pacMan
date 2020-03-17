@@ -54,4 +54,4 @@ contract MITERC20Token {
         return true;
     }
 }
-© 2020 GitHub, Inc.
+
